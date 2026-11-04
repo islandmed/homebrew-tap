@@ -1,11 +1,11 @@
 cask "sculptforge" do
-  version "0.10.10"
-  sha256 "f73a96bbefc8a292bb1fc8d719d2822d36af2a9d09597d77477f45dbe45e0174"
+  version "0.10.11"
+  sha256 "3d96bc0cc64b447e2612c6482c7128de3eb7b2cb4a671451b8003c760c95d633"
 
   url "https://github.com/islandmed/SculptForge/releases/download/v#{version}/SculptForge-#{version}-darwin-universal.dmg",
       verified: "github.com/islandmed/SculptForge/"
   name "SculptForge"
-  desc "Free, open-source digital sculpting, an alternative to ZBrush"
+  desc "Free, open-source digital sculpting app"
   homepage "https://sculptforge.app/"
 
   livecheck do
