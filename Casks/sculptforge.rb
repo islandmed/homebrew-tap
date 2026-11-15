@@ -1,6 +1,6 @@
 cask "sculptforge" do
-  version "0.13.2"
-  sha256 "2534e111b5eeb64e5f6ac73a49280bd8384d661aa3802e7e78a91c42d394124f"
+  version "0.13.3"
+  sha256 "710eaf2b7b0b806d4110a129ca2618bd24e77a1a454e2c5fd5b36df5e97aef2f"
 
   url "https://github.com/islandmed/SculptForge/releases/download/v#{version}/SculptForge-#{version}-darwin-universal.dmg",
       verified: "github.com/islandmed/SculptForge/"
